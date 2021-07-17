@@ -1,9 +1,16 @@
 # CTF-tools
 
+
 ## Starter Pack LINUX
 
 [ ] Terminator Terminal
 [ ] mc midnight commander
+[ ] vi config 
+[ ] pip2.7 https://bootstrap.pypa.io/pip/2.7/get-pip.py
+
+## OSINT
+
+[ ] NMAP
 
 
 ## Steganography
@@ -22,7 +29,9 @@
 
 ## Web Exploitation
 [ ] BurpSuit
-
+[ ] SSRF https://github.com/swisskyrepo/SSRFmap#install-and-manual
+[ ] XSS  https://github.com/s0md3v/XSStrike
+[ ] amass https://github.com/OWASP/Amass
 ## PWN
 
 
@@ -35,3 +44,5 @@ http://hash.lol/
 ## Browser Extensions 
 
 [ ] DotGit
+
+  
