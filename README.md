@@ -7,6 +7,7 @@
 [ ] mc midnight commander
 [ ] vi config 
 [ ] pip2.7 https://bootstrap.pypa.io/pip/2.7/get-pip.py
+[ ] https://github.com/omer-dogan/kali-whoami
 
 ## OSINT
 
